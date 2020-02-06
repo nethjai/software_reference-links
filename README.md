@@ -1,5 +1,8 @@
     # software_reference-links
 
+    #### open jdk installation in ubuntu ####
+    https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04
+
     #### jenkins as a service link ####
     https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04
  
