@@ -9,3 +9,5 @@
     #### docker-machine swarm master token ####
     https://blog.codeship.com/docker-machine-compose-and-swarm-how-they-work-together/
     
+    #### docker-machine setup google-cloud ####
+    https://rominirani.com/docker-machine-to-control-docker-hosts-on-google-cloud-3a48b46809dc
