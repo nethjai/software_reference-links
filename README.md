@@ -11,3 +11,6 @@
     
     #### docker-machine setup google-cloud ####
     https://rominirani.com/docker-machine-to-control-docker-hosts-on-google-cloud-3a48b46809dc
+    
+    #### jfrog docker container setuo  ####
+    https://computingforgeeks.com/how-to-install-jfrog-artifactory-on-ubuntu/
