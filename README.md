@@ -14,3 +14,6 @@
     
     #### jfrog docker container setup  ####
     https://computingforgeeks.com/how-to-install-jfrog-artifactory-on-ubuntu/
+
+    #### butler pulgin to backup ####
+    https://www.blog.labouardy.com/butler-cli-import-export-jenkins-plugins-jobs/
